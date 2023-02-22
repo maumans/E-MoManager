@@ -1,0 +1,69 @@
+.MuiInputBase-input:focus
+{
+    --tw-ring-color: transparent !important;
+}
+
+
+.emoFont
+{
+    font-family: 'Titillium Web';
+    font-weight:bold;
+}
+
+.appThemeBackgroundColor
+{
+    background-color: #4f46e5;
+}
+
+.appThemeBackgroundColor1
+{
+    background-color: #ef2222;
+}
+
+.appThemeBackgroundColorSub
+{
+    background-color: #d7d4ef;
+}
+
+.appThemeBackgroundColorSubHover:hover
+{
+    background-color: #d7d4ef;
+}
+
+.appThemeColor
+{
+    color: #4f46e5;
+}
+
+.appThemeColorInfo
+{
+    color: #505a77;
+}
+{
+    color: #4f46e5;
+}
+
+.appThemeColor1
+{
+    color: #ef2222;
+}
+
+.appThemeBorderColor
+{
+    border: 1px solid #4f46e5;
+}
+
+.appThemeBorderColor2
+{
+    border: 2px solid #4f46e5;
+}
+
+.appThemeBorderBottomColor
+{
+    border-bottom: 1px solid #4f46e5;
+}
+
+.appThemeBorderRightColor
+{
+    border-right: 2px solid #4f46e5;
+}
